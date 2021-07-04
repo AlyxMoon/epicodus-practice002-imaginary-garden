@@ -1,5 +1,9 @@
 
-General concept:
+### stuff to do
+- convert data from the geolocation to pass to the next API
+- convert results from dayCycle into local time zone
+
+### General concept:
 
 - get sunrise and sunset data via API
   - need to get location of user first
@@ -13,3 +17,7 @@ General concept:
 - ability to set the kelvin color temperature in the greenhouse
 
 we could use the data to find optimal times to pull tarp if a farmer wanted to maximize.
+
+#### APIs used
+- https://ipinfo.io/
+- https://sunrise-sunset.org/
